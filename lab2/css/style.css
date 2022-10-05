@@ -1,5 +1,6 @@
 body{
-    color: #2920a2;
+    color: #0a0644;
+    background-color: rgba(0, 255, 255, 0.092);
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -15,7 +16,8 @@ img{
     max-height: 400px;
 }
 html {
-    background-image: url(https://i.lb.ua/057/46/6261801abe618.jpeg);
+
+    background-image: url(https://focus.ua/static/storage/thumbs/920x465/c/14/6107d723-010b90f57680e6766c58b7da2f9df14c.jpg?v=6588_1);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
